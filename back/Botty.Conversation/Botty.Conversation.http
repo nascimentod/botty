@@ -1,0 +1,6 @@
+@Botty.Conversation_HostAddress = http://localhost:5212
+
+GET {{Botty.Conversation_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
