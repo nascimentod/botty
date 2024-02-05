@@ -5,6 +5,8 @@ VisualStudioVersion = 17.5.002.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Botty.Conversation", "Botty.Conversation\Botty.Conversation.csproj", "{84FC1D6B-D613-4755-8CD2-18B964BDD5F8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Botty.ChatMock", "Botty.ChatMock\Botty.ChatMock.csproj", "{FAD26C58-7642-47A3-9F29-F1B8D14F317A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{84FC1D6B-D613-4755-8CD2-18B964BDD5F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{84FC1D6B-D613-4755-8CD2-18B964BDD5F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{84FC1D6B-D613-4755-8CD2-18B964BDD5F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FAD26C58-7642-47A3-9F29-F1B8D14F317A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAD26C58-7642-47A3-9F29-F1B8D14F317A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAD26C58-7642-47A3-9F29-F1B8D14F317A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAD26C58-7642-47A3-9F29-F1B8D14F317A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
