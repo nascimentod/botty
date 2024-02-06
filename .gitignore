@@ -396,3 +396,7 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+# RASA cache
+back/Botty.ModelManagement/Models/**/.rasa/cache/
+
