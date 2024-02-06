@@ -1,0 +1,6 @@
+@Botty.ModelManagement_HostAddress = http://localhost:5025
+
+GET {{Botty.ModelManagement_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

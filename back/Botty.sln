@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Botty.Conversation", "Botty
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Botty.ChatMock", "Botty.ChatMock\Botty.ChatMock.csproj", "{FAD26C58-7642-47A3-9F29-F1B8D14F317A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Botty.ModelManagement", "Botty.ModelManagement\Botty.ModelManagement.csproj", "{F88C5606-0DFD-4636-A1BA-C551D27C4A20}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{FAD26C58-7642-47A3-9F29-F1B8D14F317A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FAD26C58-7642-47A3-9F29-F1B8D14F317A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FAD26C58-7642-47A3-9F29-F1B8D14F317A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F88C5606-0DFD-4636-A1BA-C551D27C4A20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F88C5606-0DFD-4636-A1BA-C551D27C4A20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F88C5606-0DFD-4636-A1BA-C551D27C4A20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F88C5606-0DFD-4636-A1BA-C551D27C4A20}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -12,9 +12,7 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI();
 }
 
-app.MapGet("/healthcheck", () => {
-    return "I'm alive!";
-});
+app.MapGet("/healthcheck", () => "I'm alive!");
 
 app.MapPost("/message", (IncomingMessage message) => {
     var response = $"Hello {message.UserId}! Nice to meet you!";
